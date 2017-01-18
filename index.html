@@ -284,5 +284,12 @@
 		
 		<script async src="scripts/main.js"></script> <!-- Resource jQuery -->
 		<script async type="text/javascript" src="scripts/bootstrap.min.js"></script> <!--bootstrap js -->
+		 <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register("/sw.js" ).then(function() {
+      console.log("Service Worker Registered");
+    });
+  }
+  </script>
 	</body>
 </html>
