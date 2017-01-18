@@ -255,12 +255,12 @@
 			</div><!-- footer -->
 		</section>
 	</main>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+		<script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 		<script>
 			if( !window.jQuery ) document.write('<script src="scripts/jquery-3.0.0.min.js"><\/script>');
 		</script>
-		<script src="scripts/modernizr-custom.js"></script>
-		<script>
+		<script async  src="scripts/modernizr-custom.js"></script>
+		<script async >
 			var cb = function(){
 			  var styles = ["https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,700", "/css/bootstrap.min.css", "/css/reset.css", "/css/nav_style.css", "/vendor/device-mockups/device-mockups.min.css"];
 			  for( var i = styles.length - 1; i >= 0; i-- )
@@ -290,7 +290,7 @@
 			    window.attachEvent( 'onload', cb );
 			}
 			</script>
-		<script src="scripts/main.js"></script> <!-- Resource jQuery -->
-		<script type="text/javascript" src="scripts/bootstrap.min.js"></script> <!--bootstrap js -->
+		<script async src="scripts/main.js"></script> <!-- Resource jQuery -->
+		<script async type="text/javascript" src="scripts/bootstrap.min.js"></script> <!--bootstrap js -->
 	</body>
 </html>
