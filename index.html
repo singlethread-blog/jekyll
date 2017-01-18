@@ -3,11 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="css/bootstrap.min.css" rel="stylesheet"> <!-- Bootstrap core CSS -->
-		<link href="https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,700" rel="stylesheet">
-		<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
-		<link rel="stylesheet" href="css/nav_style.css"> <!-- Resource style -->
-		<link rel="stylesheet" href="vendor/device-mockups/device-mockups.min.css"> <!-- device mockups -->
 	   	  	
 		<title>Singlethread - Automated Text Messaging</title>
 	</head>
@@ -265,6 +260,36 @@
 			if( !window.jQuery ) document.write('<script src="scripts/jquery-3.0.0.min.js"><\/script>');
 		</script>
 		<script src="scripts/modernizr-custom.js"></script>
+		<script>
+			var cb = function(){
+			  var styles = ["https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,700", "/css/bootstrap.min.css", "/css/reset.css", "/css/nav_style.css", "/vendor/device-mockups/device-mockups.min.css"];
+			  for( var i = styles.length - 1; i >= 0; i-- )
+			  {
+			    l = document.createElement( 'link' );
+			    l.rel = 'stylesheet';
+			    l.href = styles[i];
+			    h = document.getElementsByTagName( 'head' )[0];
+			    h.insertBefore( l, h.childNodes[h.childNodes.length-1] );
+			  };
+			};
+
+			var raf = ( "undefined" != typeof requestAnimationFrame ) ? requestAnimationFrame : false ||
+			    ( "undefined" != typeof mozRequestAnimationFrame ) ? mozRequestAnimationFrame : false ||
+			    ( "undefined" != typeof webkitRequestAnimationFrame ) ? webkitRequestAnimationFrame : false ||
+			    ( "undefined" != typeof msRequestAnimationFrame ) ? msRequestAnimationFrame : false;
+
+			if( raf )
+			{
+			  raf( cb );
+			}
+			else
+			{
+			  if( "undefined" != typeof window.addEventListener )
+			    window.addEventListener( 'load', cb );
+			  else if( "undefined" != typeof window.attachEvent )
+			    window.attachEvent( 'onload', cb );
+			}
+			</script>
 		<script src="scripts/main.js"></script> <!-- Resource jQuery -->
 		<script type="text/javascript" src="scripts/bootstrap.min.js"></script> <!--bootstrap js -->
 	</body>
