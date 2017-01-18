@@ -1,0 +1,18 @@
+{
+  "name": "singlethread-blog",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "jaycorp"
+  ],
+  "license": "ISC",
+  "homepage": "st.ruby.im",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
