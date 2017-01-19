@@ -5,35 +5,108 @@
     <description></description>
     <link>/</link>
     <atom:link href="/http://st.ruby.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Jan 2017 19:08:04 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Jan 2017 19:08:04 -0500</lastBuildDate>
+    <pubDate>Wed, 18 Jan 2017 20:56:32 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Jan 2017 20:56:32 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Texting system reduces service dissatisfaction</title>
+        <description>&lt;p&gt;DETROIT – When Ed Jolliffe brought his nephew, Patrick Southward, in to be sales manager at Gorno Ford in Woodhaven, Mich., Jolliffe knew he was hiring a bright young man who cut his teeth during four years as finance manager at Toyota of Huntington Beach in California.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;What Jolliffe, now 52, didn’t know back in 2009 was that Southward would help provide the key to solving one of the most nagging problems dealers face – the frequent, customer-satisfaction-destroying breakdown in communications between dealership service departments and their customers.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;What resulted was a beneficial outcome for both men: a problem solved for Jolliffe’s dealership and the birth of a software company formed by Southward, now 33, and his business partner, Will Mapes, also 33.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;The software, called Singlethread, first tested and used at Gorno Ford, allows service departments to use text messages to communicate with customers. Since the service started at Gorno Ford in late 2014, about 100 dealerships have signed up nationwide, and the company has spoken with large dealership groups and OEMs about further expansion.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Intractable problem&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;Dealer Jolliffe explains the issue.&lt;/p&gt;
+
+&lt;p&gt;“The biggest problem in service departments is communication,” he says. “It always has been and always will be.” Service advisers “are afraid to call the customer and say “I’ve got to keep your car overnight.’ They wait for the customer to call them and by then the customer is upset.”&lt;/p&gt;
+
+&lt;p&gt;The weak link in the chain is the telephone. Customers generally work during the day while their cars are being serviced. They’re busy and miss phone calls.&lt;/p&gt;
+
+&lt;p&gt;A service adviser leaves a voicemail saying a part needs to be ordered or a bill needs to be approved. The customer doesn’t get the message until it’s too late to order the part that day.&lt;/p&gt;
+
+&lt;p&gt;“I can’t tell you how many times I used to get phone calls from customers saying, “No one called me, and I’m really upset.’ I’m telling you I heard that three to four times a month,” says Jolliffe, whose suburban Detroit Ford dealership has 25 service bays and 20 technicians who process about 1,000 repair orders a month.&lt;/p&gt;
+
+&lt;p&gt;When Southward was working as sales manager at Gorno, he noticed the service department issues.&lt;/p&gt;
+
+&lt;p&gt;“It was a major concern because I kept a close eye on customer satisfaction, and that seemed to be the biggest complaint,” he says.&lt;/p&gt;
+
+&lt;p&gt;Southward discussed the problem with his childhood friend Mapes, then working as a business development manager at Route-One, a Farmington Hills, Mich., company that provides a portal connecting automotive dealerships with finance sources.&lt;/p&gt;
+
+&lt;p&gt;Working together, Southward and Mapes founded a company called Michigan Software Design and developed a platform called Singlethread. They knew they could come up with something better than telephones and the table pagers then in use at Gorno to alert customers when their vehicles were done.&lt;/p&gt;
+
+&lt;p&gt;Mapes says Singlethread allows customers to do things they previously had to rely on phone calls to accomplish.&lt;/p&gt;
+
+&lt;p&gt;“It gives them the ability to approve work, decline work, even pay for service all by text message,” he says.&lt;/p&gt;
+
+&lt;p&gt;When the customer drops the vehicle off, the service writer captures the mobile phone number and asks the customer whether he or she would prefer getting service updates via phone or text. Jolliffe says customers increasingly check the “text” box.&lt;/p&gt;
+
+&lt;p&gt;Lloyd Schiller, a consultant specializing in dealership service department operations, says during the last year he has seen an accelerating transition in customer preferences regarding how they would like to communicate with the service department.&lt;/p&gt;
+
+&lt;p&gt;“At this point in our evolution, I would say the majority of customers prefer being texted on progress updates [rather] than phone calls,” he says. While there are many basic text messaging apps for service departments, few offer the means to carry out the entire transaction via text, he says.&lt;/p&gt;
+
+&lt;p&gt;Series of texts&lt;/p&gt;
+
+&lt;p&gt;With Singlethread, once the customer agrees to texting, a procedure begins. Customers first receive a text with an embedded link asking for approval of the work followed by a notification that the vehicle is being serviced, also containing a link customers can click to reach the service adviser.&lt;/p&gt;
+
+&lt;p&gt;Once the work is done, the customer receives a notice containing the bill with an itemized account of everything that was done. By clicking on the link, the customer can pay the bill, after which another text goes out with a one-question survey asking whether the customer is satisfied.&lt;/p&gt;
+
+&lt;p&gt;In addition, the Singlethread platform allows the service adviser to text an embedded link to multimedia, including photos, PDFs and perhaps a video walkaround to explain the work performed.&lt;/p&gt;
+
+&lt;p&gt;Finally, the dealership delivers a message telling the customer what time the vehicle is available to be picked up.&lt;/p&gt;
+
+&lt;p&gt;The software is integrated with the dealership management system.&lt;/p&gt;
+
+&lt;p&gt;Jolliffe says the software has transformed his service department. First of all, the texting process leaves a written record of communication between dealer and customer.&lt;/p&gt;
+
+&lt;p&gt;If the bill is, for example, $925, and the customer remembers being told $825, there’s a written record, he says.&lt;/p&gt;
+
+&lt;p&gt;“It’s alleviating a lot of issues,” particularly in situations where it’s the customer’s word against the service adviser’s.&lt;/p&gt;
+
+&lt;p&gt;When Jolliffe walks back to his service department and sees his service advisers now, he finds a scene that’s completely different from what he would have found just a couple of years ago.&lt;/p&gt;
+
+&lt;p&gt;“There used to be a stack of ROs [repair orders] on their desk. They’d be on the phone constantly,” he says.&lt;/p&gt;
+
+&lt;p&gt;“I walk back there now, and they are not on the phone, which frees them up to talk to customers who come in about stuff they need to do, preventive maintenance, all kinds of stuff. It’s trickled down to allow them to spend more time with each customer that comes in.”&lt;/p&gt;
+
+&lt;p&gt;You can reach Bradford Wernle at bwernle@autonews.com&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.autonews.com/article/20160411/RETAIL07/304119951/texting-system-reduces-service-dissatisfaction&quot;&gt;Original Article&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Sep 2016 04:56:39 -0400</pubDate>
-        <link>/http://st.ruby.im/jekyll/update/2016/09/08/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/http://st.ruby.im/jekyll/update/2016/09/08/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 11 Apr 2016 04:56:39 -0400</pubDate>
+        <link>/http://st.ruby.im/press/2016/04/11/texting-system-reduces-dissatisfaction/</link>
+        <guid isPermaLink="true">/http://st.ruby.im/press/2016/04/11/texting-system-reduces-dissatisfaction/</guid>
         
         
-        <category>jekyll</category>
+        <category>press</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Singlethread’s software connects dealership mechanics with customers</title>
+        <description>&lt;p&gt;Mechanics specialize in fixing cars. Motorists excel at breaking them. More times than not, neither party is good at communication. Singlethread believes it can bridge that divide.&lt;/p&gt;
+
+&lt;p&gt;The 1-year-old startup makes a software platform that helps mechanics at car dealerships and their customers better communicate via text messages. That way mechanics can send status updates to customers and car owners can quickly give approval to fixes.&lt;/p&gt;
+
+&lt;p&gt;“One of the biggest problems in automotive dealerships is poor communication between the mechanics and their customers while the car is being fixed,” says Will Mapes, founder of Singlethread. “They end up being ships that pass in the night.”&lt;/p&gt;
+
+&lt;p&gt;Singlethread’s team of five people developed the technology with Atomic Object’s downtown Detroit office, splitting time between the central business district and Royal Oak. They launched the platform six months ago and now has deployed it in 10 automotive dealerships in Michigan, Florida, and Texas. Singlethread is now looking to expand to more dealerships across North America.&lt;/p&gt;
+
+&lt;p&gt;“We will be growing as fast as possible,” Mapes says. “Our mandate is to just meet demand right now.”&lt;/p&gt;
+
+&lt;p&gt;Source: Will Mapes, founder of Singlethread
+Writer: Jon Zemke @ &lt;a href=&quot;http://www.modeldmedia.com/startupnews/singlethreaddetroit032415.aspx&quot;&gt;Model D&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Mar 2016 04:56:39 -0400</pubDate>
+        <link>/http://st.ruby.im/press/2016/03/24/connects-dealership-mechanics-with-customers/</link>
+        <guid isPermaLink="true">/http://st.ruby.im/press/2016/03/24/connects-dealership-mechanics-with-customers/</guid>
+        
+        
+        <category>press</category>
         
       </item>
     
