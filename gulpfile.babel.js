@@ -128,7 +128,7 @@ gulp.task('deploy', () => {
     'minify-html',
     'css',
     'generate-service-worker',
-    'minify-images',
+    'minify-images' ,
     'gh-pages'
   )
 });

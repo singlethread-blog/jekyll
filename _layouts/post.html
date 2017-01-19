@@ -1,15 +1,79 @@
 ---
-layout: default
+layout: ~
 ---
-<div class="post">
+<!doctype html>
+<html lang="en" class="">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="/css/bootstrap.min.css" rel="stylesheet"> <!-- Bootstrap core CSS -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,700" rel="stylesheet">
+		<link rel="stylesheet" href="/css/reset.css"> <!-- CSS reset -->
+		<link rel="stylesheet" href="/css/nav_style.css"> <!-- Resource style -->
+		<link rel="stylesheet" href="/vendor/device-mockups/device-mockups.min.css"> <!-- device mockups -->
+	   	  	
+		<title>Singlethread - Automated Text Messaging</title>
+	</head>
+	<body>
+	
+	{% include nav.html %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+	<main class="cd-main-content">
+		<section class="overview resource_bg">
+			<div class="container" id="">
+				<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 
-</div>
+					<div class="row post_details">
+						<h1>{{ page.title }}</h1>
+						<p class="date">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+						<p>{{ content }}</p>
+					</div>
+
+					
+				</div>
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 blog_summary">
+					<h1>PRESS RELEASES</h1>
+						<ul>
+							<a href="#"><li>Press 1</li></a>
+							<a href="#"><li>Press 1</li></a>
+							<a href="#"><li>Press 1</li></a>
+							<a href="#"><li>Press 1</li></a>
+						</ul>
+					<h1>BLOG POSTS</h1>
+						<ul>
+							<a href="#"><li>Blog 1</li></a>
+							<a href="#"><li>Blog 1</li></a>
+							<a href="#"><li>Blog 1</li></a>
+							<a href="#"><li>Blog 1</li></a>
+						</ul>
+					<h1>RESEARCH POSTS</h1>
+						<ul>
+							<a href="#"><li>Research 1</li></a>
+							<a href="#"><li>Research 1</li></a>
+							<a href="#"><li>Research 1</li></a>
+						</ul>
+				</div>
+			</div>
+
+				<hr>
+			</div>
+
+<section class="headline get_started_back"> <!-- ST Get Started -->
+			<div class="container" style="padding-bottom: 60px">
+				<div class="col-md-6 col-lg-6" style="">
+					<p class="get_started">Ready to get started?</p>
+					<p class="get_started_sub">Get started in as few as 2 business days. Sign up, integrate and go.</p>
+				</div>
+				<div class="col-md-6 col-lg-6 text-center" style="">
+					<a href="contact.html"></a><button class="btn btn-primary btn-lg btn_action">GET STARTED</button>
+				</div>
+			</div>
+		</section>
+
+
+		
+
+		{% include bodyend.html %}
+	</body>
+</html>
